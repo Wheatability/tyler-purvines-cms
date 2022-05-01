@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_buttons_hero_ctas",
+  "info": {
+    "displayName": "CTA",
+    "icon": "mouse-pointer",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Text": {
+      "type": "string",
+      "required": true
+    },
+    "Link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
